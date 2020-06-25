@@ -10,3 +10,5 @@ Biografisches Filmdrama über das Leben von Freddie Mercury
 * British Academy Award
 * Oscarverleihung 2019
 * Golden Globe Awards 2019
+
+> We are the Champions
