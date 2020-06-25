@@ -12,3 +12,5 @@ Biografisches Filmdrama über das Leben von Freddie Mercury
 * Golden Globe Awards 2019
 
 > We are the Champions
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Queenland_198501.jpg/290px-Queenland_198501.jpg"/>
